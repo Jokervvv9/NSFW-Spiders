@@ -1,5 +1,5 @@
 {
-  "spider": "https://ghproxy.cn/https://raw.githubusercontent.com/Jokervvv9/NSFW-Spiders/refs/heads/main/Spiders-Lib/GM.jar;md5;3e59c9c3c50ea1d4609cec9dbee730c3",
+  "spider": "https://ghproxy.cn/https://raw.githubusercontent.com/Jokervvv9/NSFW-Spiders/main/Spiders-Lib/GM.jar;md5;3e59c9c3c50ea1d4609cec9dbee730c3",
   "sites": [
     {
       "key": "Jable",
@@ -13,7 +13,7 @@
       },
       "api": "csp_GM",
       "ext": {
-        "userScript": "https://ghproxy.cn/https://raw.githubusercontent.com/Jokervvv9/NSFW-Spiders/refs/heads/main/userScripts/jable.user.js",
+        "userScript": "https://ghproxy.cn/https://raw.githubusercontent.com/Jokervvv9/NSFW-Spiders/main/userScripts/jable.user.js",
         "debug": false,
         "webViewSettings": {
           "blockNetworkImage": true,
@@ -62,7 +62,7 @@
       },
       "api": "csp_GM",
       "ext": {
-        "userScript": "https://ghproxy.cn/https://raw.githubusercontent.com/Jokervvv9/NSFW-Spiders/refs/heads/main/userScripts/netflav.user.js",
+        "userScript": "https://ghproxy.cn/https://raw.githubusercontent.com/Jokervvv9/NSFW-Spiders/main/userScripts/netflav.user.js",
         "debug": false,
         "webViewSettings": {
           "blockNetworkImage": true,
@@ -111,7 +111,7 @@
       },
       "api": "csp_GM",
       "ext": {
-        "userScript": "https://ghproxy.cn/https://raw.githubusercontent.com/Jokervvv9/NSFW-Spiders/refs/heads/main/userScripts/123av.user.js",
+        "userScript": "https://ghproxy.cn/https://raw.githubusercontent.com/Jokervvv9/NSFW-Spiders/main/userScripts/123av.user.js",
         "debug": false,
         "webViewSettings": {
           "blockNetworkImage": true,
@@ -159,7 +159,7 @@
       },
       "api": "csp_GM",
       "ext": {
-        "userScript": "https://ghproxy.cn/https://raw.githubusercontent.com/Jokervvv9/NSFW-Spiders/refs/heads/main/userScripts/missav.user.js",
+        "userScript": "https://ghproxy.cn/https://raw.githubusercontent.com/Jokervvv9/NSFW-Spiders/main/userScripts/missav.user.js",
         "debug": false,
         "webViewSettings": {
           "blockNetworkImage": true,
@@ -211,7 +211,7 @@
       },
       "api": "csp_GM",
       "ext": {
-        "userScript": "https://ghproxy.cn/https://raw.githubusercontent.com/Jokervvv9/NSFW-Spiders/refs/heads/main/userScripts/supjav.user.js",
+        "userScript": "https://ghproxy.cn/https://raw.githubusercontent.com/Jokervvv9/NSFW-Spiders/main/userScripts/supjav.user.js",
         "debug": false,
         "webViewSettings": {
           "blockNetworkImage": true,
@@ -278,7 +278,7 @@
       },
       "api": "csp_GM",
       "ext": {
-        "userScript": "https://ghproxy.cn/https://raw.githubusercontent.com/Jokervvv9/NSFW-Spiders/refs/heads/main/userScripts/xojav.user.js",
+        "userScript": "https://ghproxy.cn/https://raw.githubusercontent.com/Jokervvv9/NSFW-Spiders/main/userScripts/xojav.user.js",
         "debug": false,
         "webViewSettings": {
           "blockNetworkImage": true,
